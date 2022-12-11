@@ -1,0 +1,44 @@
+{
+    "Cards": [
+        {
+            "id": 1,
+            "name": "Pikachu",
+            "Power": "300",
+            "HPs": "50",
+            "url": "https://images.unsplash.com/photo-1622974038065-11f2334b095d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBva2Vtb24lMjBjYXJkc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "id": 2,
+            "name": "Omanyte",
+            "Power": "250",
+            "HPs": "70",
+            "url": "https://images.unsplash.com/photo-1622976900792-e37005f55d64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=786&q=80"
+        },
+        {
+            "id": 3,
+            "name": "Raichu",
+            "Power": "165",
+            "HPs": "110",
+            "url": "https://images.unsplash.com/photo-1611931969235-9ad843243189?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "id": 4,
+            "name": "Kabuto",
+            "Power": "320",
+            "HPs": "30",
+            "url": "https://images.unsplash.com/photo-1622976935501-17d373e69b23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80"
+        }
+    ],
+    "Teams": [
+        {
+            "id": 1,
+            "name": "Gut",
+            "Cards": [1, 2]
+        },
+        {
+            "id": 2,
+            "name": "Böse",
+            "Cards": [3, 4]
+        }
+    ]
+}
