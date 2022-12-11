@@ -1,0 +1,24 @@
+{
+  "name": "be-pokemon-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaid-Leo/BE-Pokemon-Gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaid-Leo/BE-Pokemon-Gallery/issues"
+  },
+  "homepage": "https://github.com/Zaid-Leo/BE-Pokemon-Gallery#readme",
+  "dependencies": {
+    "node": "^19.2.0"
+  }
+}
